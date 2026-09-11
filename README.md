@@ -1,10 +1,8 @@
-﻿# Unihub
+# UniHub
 
-UniHub - Student Housing
+<img src="./assets/header.svg" width="100%" alt="UniHub" />
 
-## Stack
-
-react Â· express Â· vite Â· typescript Â· tailwindcss Â· firebase Â· node
+Find a verified student home near campus. Direct agent contact, no hidden fees.
 
 ## Run locally
 
@@ -13,4 +11,4 @@ react Â· express Â· vite Â· typescript Â· tailwindcss Â· firebase Â·
 
 ## License
 
-Private / all rights reserved.
+All rights reserved.
